@@ -2,7 +2,7 @@
 # === Required fields  ===
 # Your name 
 name: "Mara-Ioana Postolache"
-# Your profile picture
+# Your profile 
 imgname: 
   name: "../img/profile45.jpg"
   alt: "Picture of me"
@@ -15,7 +15,7 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Student"
+personal_title: "Masters Student"
 # An address (you can list multiple)
 address: 
   - 
@@ -26,7 +26,7 @@ address:
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
-# email: aaaa@example.com
+    email: mip32@cam.ac.uk
 # Add an email "image" for spam protection. With light and dark mode
 # emailImg: 
 #   dark: /img/dark_email.png
@@ -77,6 +77,6 @@ address:
 
 # Hello and welcome!
 
-I am Mara (she/her), a Part II student at the University of Cambridge. 
+I am Mara (she/her), a Part III student at the [University of Cambridge](https://www.maths.cam.ac.uk/). 
 
-I am interested in pure mathematics, mainly related to analysis and differential geometry. You can find more about my mathematics [here !!! THIS DOES NOT WORK!!!](../maths/).
+I am interested in pure mathematics, mainly related to analysis and differential geometry. You can find more about my mathematics [here](../maths/).

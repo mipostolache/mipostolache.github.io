@@ -5,4 +5,4 @@ hideDate = true
 hideLastMod = true
 +++
 
-I will upload my CV here.
+You can find my CV [here](../files/M%20Postolache%20CV%20Sept%202024.pdf).

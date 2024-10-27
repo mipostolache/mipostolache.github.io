@@ -4,7 +4,7 @@
 name: "Mara-Ioana Postolache"
 # Your profile 
 imgname: 
-  name: "../img/profile.jpg"
+  name: "../img/profile45.jpg"
   alt: "Picture of me"
   type: image/jpeg
 # More sources can be added (optional) using 

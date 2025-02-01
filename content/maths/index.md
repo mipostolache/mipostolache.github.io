@@ -20,5 +20,5 @@ hideLastMod = true
 2. **"Polynomials with many rational preperiodic points"** _(summer 2023)_ with [Prof Holly Krieger](https://www.dpmms.cam.ac.uk/~hk439/), Hyeonggeun Kim, and Vivian Szeto. 
 
 ## Part III Essay
-As part of my MMath, I will be a writing an essay. The title will be _"Manifolds with Non-Negative Scalar Curvature", and it will be written under the supervision of [Dr Paul Minter](https://minterscompactness.wordpress.com/).
+As part of my MMath, I will be a writing an essay. The title will be _"Manifolds with Non-Negative Scalar Curvature"_, and it will be written under the supervision of [Dr Paul Minter](https://minterscompactness.wordpress.com/).
 

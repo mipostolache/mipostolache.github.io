@@ -6,3 +6,5 @@ hideLastMod = true
 +++
 
 You can find my CV [here](../files/M%20Postolache%20CV%20Dec%202024.pdf).
+
+_Last updated: December 2024_

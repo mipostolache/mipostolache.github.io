@@ -4,7 +4,7 @@
 name: "Mara-Ioana Postolache"
 # Your profile 
 imgname: 
-  name: "../img/profile45.jpg"
+  name: "../img/profileGrad.jpg"
   alt: "Picture of me"
   type: image/jpeg
 # More sources can be added (optional) using 
@@ -26,7 +26,7 @@ address:
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
-    email: mip32@cam.ac.uk
+    email: mip32@cantab.ac.uk
 # Add an email "image" for spam protection. With light and dark mode
 # emailImg: 
 #   dark: /img/dark_email.png
@@ -77,6 +77,6 @@ address:
 
 # Hello and welcome!
 
-I am Mara (she/her), a Part III student at the [University of Cambridge](https://www.maths.cam.ac.uk/). 
+I am Mara (she/her). I have just graduated from my MMath+BA degree at the [University of Cambridge](https://www.maths.cam.ac.uk/), and am about to embark on a PhD at [Queen Mary University London](https://www.qmul.ac.uk/maths/). 
 
-I am interested in pure mathematics, mainly related to analysis and differential geometry. You can find more about my mathematics [here](../maths/).
+I am interested in geometric analysis, in particular related to mean curvature flow and minimal surfaces. You can find more about my mathematics [here](../maths/).

@@ -15,7 +15,7 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Masters Student"
+personal_title: "PhD Student"
 # An address (you can list multiple)
 address: 
   - 
@@ -77,6 +77,6 @@ address:
 
 # Hello and welcome!
 
-I am Mara (she/her). I have just graduated from my MMath+BA degree at the [University of Cambridge](https://www.maths.cam.ac.uk/), and am about to embark on a PhD at [Queen Mary University London](https://www.qmul.ac.uk/maths/). 
+I am Mara (she/her). I have just graduated from my MMath+BA degree at the [University of Cambridge](https://www.maths.cam.ac.uk/), and am about to embark on a PhD at [Queen Mary University London](https://www.qmul.ac.uk/maths/), supervised by [Dr Huy The Nguyen](https://sites.google.com/site/mathnguyenthehuy/home) and [Dr Shengwen Wang](http://shengwen-wang.net/).
 
 I am interested in geometric analysis, in particular related to mean curvature flow and minimal surfaces. You can find more about my mathematics [here](../maths/).

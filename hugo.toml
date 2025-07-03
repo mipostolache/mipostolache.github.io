@@ -48,9 +48,14 @@ pygmentsStyle = "native"
     weight = -120
 
 [[menu.main]]
+    name = "Travels"
+    url = "/travels/"
+    weight = -110
+
+[[menu.main]]
     name = "CV"
     url = "/cv/"
-    weight = -110
+    weight = -100
 
 # Make the tags and categories pages accessible directly from the navbar.
 # [[menu.main]]
@@ -68,7 +73,7 @@ pygmentsStyle = "native"
     authorName = "Mara-Ioana Postolache"
     # Main image for the author. This will be the default image for SEO.
     [params.imgname]
-        name = "img/profile45.jpg"
+        name = "img/profile.jpg"
         # Add an alt description for the image
         alt = "Profile picture"
 

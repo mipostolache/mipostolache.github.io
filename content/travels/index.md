@@ -9,3 +9,5 @@ hideLastMod = true
 
 ## Past academic travel
 1. [**British Isles Graduate Workshop VI**](https://enric-sf.github.io/BIGW_VI/index.html) - 1st-5th September 2025, Isle of Wight
+
+![BIGW 2025](/static/files/travel%20pics/DSCF1990.JPG)

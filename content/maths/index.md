@@ -15,10 +15,10 @@ hideLastMod = true
 1. **"Polynomials with many Rational Preperiodic Points"** _(CMP Presentation Day, August 2023)_ - slides [here](../files/maths/talks/Polynomials%20With%20Many%20Rational%20Preperiodic%20Points%20-%20CMP%20Presentation.pptx)
 
 ## Part III Essay
-As part of my MMath, I wrote an essay titled _"Manifolds with Non-Negative Scalar Curvature"_, under the supervision of [Dr Paul Minter](https://minterscompactness.wordpress.com/). A copy of this can be found [here](../files/maths/essay.pdf).
+As part of my MMath, I wrote an essay titled _"Manifolds with Non-Negative Scalar Curvature"_, under the supervision of [Paul Minter](https://minterscompactness.wordpress.com/). A copy of this can be found [here](../files/maths/essay.pdf).
 
 ## Summer Projects
-1. **"Infinite-dimensional geometry of diffusions"** _(summer 2024)_ with [Prof Clément Mouhot](https://cmouhot.wordpress.com/) and [Amélie Loher](https://amelieloher.github.io/). 
-1. **"Polynomials with many rational preperiodic points"** _(summer 2023)_ with [Prof Holly Krieger](https://www.dpmms.cam.ac.uk/~hk439/), Hyeonggeun Kim, and Vivian Szeto. 
+1. **"Infinite-dimensional geometry of diffusions"** _(summer 2024)_ with [Clément Mouhot](https://cmouhot.wordpress.com/) and [Amélie Loher](https://amelieloher.github.io/). 
+1. **"Polynomials with many rational preperiodic points"** _(summer 2023)_ with [Holly Krieger](https://www.dpmms.cam.ac.uk/~hk439/), Hyeonggeun Kim, and Vivian Szeto. 
 
 

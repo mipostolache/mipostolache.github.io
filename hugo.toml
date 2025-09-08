@@ -10,6 +10,9 @@ title = "Mara-Ioana Postolache"
 # Theme used
 theme = "hugo-astatine-theme"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 # preserveTaxonomyNames = true
 # rssLimit = 10
 # paginate = 10

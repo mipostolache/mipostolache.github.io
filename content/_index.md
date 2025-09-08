@@ -19,10 +19,10 @@ personal_title: "PhD Student"
 # An address (you can list multiple)
 address: 
   - 
-    name: Peterhouse
-    street: Trumpington Street
-    postal_code: "CB2 1RD"
-    locality: Cambridge, UK
+    name: School of Mathematical Sciences
+    street: Queen Mary University of London
+    postal_code: "E1 4NS"
+    locality: London, UK
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
@@ -77,6 +77,6 @@ address:
 
 # Hello and welcome!
 
-I am Mara (she/her). I have just graduated from my MMath+BA degree at the [University of Cambridge](https://www.maths.cam.ac.uk/), and am about to embark on a PhD at [Queen Mary University London](https://www.qmul.ac.uk/maths/), supervised by [Dr Huy The Nguyen](https://sites.google.com/site/mathnguyenthehuy/home) and [Dr Shengwen Wang](http://shengwen-wang.net/).
+I am Mara (she/her), a first-year PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/maths/). My supervisors are [Huy The Nguyen](https://sites.google.com/site/mathnguyenthehuy/home) and [Shengwen Wang](http://shengwen-wang.net/). Previously, I graduated with an MMath+BA degree from the [University of Cambridge](https://www.maths.cam.ac.uk/).
 
-I am interested in geometric analysis, in particular related to mean curvature flow and minimal surfaces. You can find more about my mathematics [here](../maths/).
+My research interests are in geometric analysis, in particular related to mean curvature flow and minimal surfaces. You can find more about my mathematics [here](../maths/).

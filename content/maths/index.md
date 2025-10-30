@@ -20,6 +20,6 @@ As part of my MMath, I wrote an essay titled _"Manifolds with Non-Negative Scala
 
 ## Summer Projects
 1. **"Infinite-dimensional geometry of diffusions"** _(summer 2024)_ with [Clément Mouhot](https://cmouhot.wordpress.com/) and [Amélie Loher](https://amelieloher.github.io/). 
-1. **"Polynomials with many rational preperiodic points"** _(summer 2023)_ with [Holly Krieger](https://www.dpmms.cam.ac.uk/~hk439/), Hyeonggeun Kim, and Vivian Szeto. 
+1. **"Polynomials with many rational preperiodic points"** _(summer 2023)_ with [Holly Krieger](https://www.dpmms.cam.ac.uk/~hk439/), [Hyeonggeun Kim](https://sites.google.com/umich.edu/kimhg/home), and Vivian Szeto. 
 
 

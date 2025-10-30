@@ -5,7 +5,7 @@ hideDate = true
 hideLastMod = true
 +++
 ## Pre-prints
-1. [**"Hénon maps with many rational periodic points"**](https://arxiv.org/abs/2412.01668) _(with H Kim, H Krieger, and V Szeto)_ - pre-print
+1. [**"Hénon maps with many rational periodic points"**](https://arxiv.org/abs/2412.01668) _(with H Kim, H Krieger, and V Szeto)_
 
 ## Talks
 1. **"An Introduction to Mean Curvature Flow"** _(Queen Mary Internal Postgraduate Seminar, October 2025)_

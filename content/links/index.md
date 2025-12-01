@@ -26,4 +26,14 @@ This is in no way exhaustative, so if you have a relevant link which I have not 
 1. [**Brussels-London Geometry Seminar**](https://geometry.ulb.ac.be/brussels-london/)
 
 ## Lists of conferences/workshops
+### Lists
 1. [**Calculus of Variations and Geometric Measure Theory**](https://cvgmt.sns.it/events/)
+1. [**Differential Geometry and Complex Geometry**](https://gecogedi.dimai.unifi.it/events/)
+1. [**UfCopenhagen Algebra & Geometry Conferences**](https://www.math.ku.dk/english/research/ag/ag-conferences/)
+### Specific events
+1. [**Women in Number Theory and Geometry Spring Retreat**](https://wings2026.github.io/)
+
+## Other links
+1. [**Women in Geometry**](https://sites.google.com/view/women-in-geometry/home)
+1. [**Women in Analysis**](https://awm-math.org/research-networks/woan/woan-people/)
+

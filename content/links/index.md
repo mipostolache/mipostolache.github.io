@@ -25,7 +25,7 @@ This is in no way exhaustative, so if you have a relevant link which I have not 
 1. [**Paris-London Analysis Seminar**](https://london-analysis-seminar.org.uk/Paris-London/)
 1. [**Brussels-London Geometry Seminar**](https://geometry.ulb.ac.be/brussels-london/)
 
-## Lists of conferences/workshops
+## Conferences/workshops
 ### Lists
 1. [**Calculus of Variations and Geometric Measure Theory**](https://cvgmt.sns.it/events/)
 1. [**Differential Geometry and Complex Geometry**](https://gecogedi.dimai.unifi.it/events/)

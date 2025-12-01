@@ -29,7 +29,7 @@ This is in no way exhaustative, so if you have a relevant link which I have not 
 ### Lists
 1. [**Calculus of Variations and Geometric Measure Theory**](https://cvgmt.sns.it/events/)
 1. [**Differential Geometry and Complex Geometry**](https://gecogedi.dimai.unifi.it/events/)
-1. [**UfCopenhagen Algebra & Geometry Conferences**](https://www.math.ku.dk/english/research/ag/ag-conferences/)
+1. [**UofCopenhagen Algebra & Geometry Conferences**](https://www.math.ku.dk/english/research/ag/ag-conferences/)
 ### Specific events
 1. [**Women in Number Theory and Geometry Spring Retreat**](https://wings2026.github.io/)
 

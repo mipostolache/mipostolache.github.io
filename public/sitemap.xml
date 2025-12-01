@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50000/</loc>
+    <loc>http://localhost:56692/</loc>
   </url><url>
-    <loc>http://localhost:50000/about/</loc>
+    <loc>http://localhost:56692/about/</loc>
   </url><url>
-    <loc>http://localhost:50000/categories/</loc>
+    <loc>http://localhost:56692/categories/</loc>
   </url><url>
-    <loc>http://localhost:50000/cv/</loc>
+    <loc>http://localhost:56692/cv/</loc>
   </url><url>
-    <loc>http://localhost:50000/maths/</loc>
+    <loc>http://localhost:56692/maths/</loc>
   </url><url>
-    <loc>http://localhost:50000/tags/</loc>
+    <loc>http://localhost:56692/tags/</loc>
   </url><url>
-    <loc>http://localhost:50000/travels/</loc>
+    <loc>http://localhost:56692/travels/</loc>
   </url><url>
-    <loc>http://localhost:50000/links/</loc>
+    <loc>http://localhost:56692/links/</loc>
   </url>
 </urlset>

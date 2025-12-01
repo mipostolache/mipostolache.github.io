@@ -1,13 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mara-Ioana Postolache</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Mara-Ioana Postolache</description>
-    
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am from Romania, but have been studying in the UK since 2019 (Year 12), when I received an &lt;a href=&#34;https://www.hmc.org.uk/about-us/hmc-projects/student-scholarships/&#34;&gt;HMC scholarship&lt;/a&gt; at the &lt;a href=&#34;https://www.rmsforgirls.com/&#34;&gt;Royal Masonic School for Girls&lt;/a&gt; in Rickmansworth, Hertfordshire.&lt;/p&gt;&#xA;&lt;p&gt;I did my undergraduate and integrated master&amp;rsquo;s at the University of Cambridge. I was a member of &lt;a href=&#34;https://www.pet.cam.ac.uk/&#34;&gt;Peterhouse&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Outside of maths, I dedicate most of my free time to scouting (see &lt;a href=&#34;https://cusagc.soc.srcf.net/&#34;&gt;CUSAGC&lt;/a&gt; and &lt;a href=&#34;https://www.ssago.org/&#34;&gt;SSAGO&lt;/a&gt;), as well as hiking, crochet, and too many other temporary hobbies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;You can find my CV &lt;a href=&#34;../files/MI%20Postolache%20-%20Curriculum%20Vitae.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Maths</title>
+      <link>http://localhost:1313/maths/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/maths/</guid>
+      <description>&lt;h2 id=&#34;pre-prints&#34;&gt;Pre-prints&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2412.01668&#34;&gt;&lt;strong&gt;&amp;ldquo;Hénon maps with many rational periodic points&amp;rdquo;&lt;/strong&gt;&lt;/a&gt; &lt;em&gt;(with H Kim, H Krieger, and V Szeto)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;An Introduction to Mean Curvature Flow&amp;rdquo;&lt;/strong&gt; &lt;em&gt;(Queen Mary Internal Postgraduate Seminar, October 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Otto Calculus and Gradient Flows on the Manifold of Probability Measures&amp;rdquo;&lt;/strong&gt; &lt;em&gt;(&lt;a href=&#34;https://sites.google.com/view/ima-tmt-2025/&#34;&gt;Tomorrow&amp;rsquo;s Mathematicians Today Conference&lt;/a&gt;, March 2025)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;An Introduction to Mean Curvature Flow&amp;rdquo;&lt;/strong&gt; &lt;em&gt;(Part III Seminar Series, December 2024)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Otto Calculus and Gradient Flows on the Infinite-Dimensional Manifold of Probability Measures&amp;rdquo;&lt;/strong&gt; &lt;em&gt;(Summer Research Festival, October 2024)&lt;/em&gt; - slides &lt;a href=&#34;../files/maths/talks/M%20Postolache%20-%20Otto%20Calculus%20and%20Gradient%20Flows.pdf&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;The X-Ray Transform and Geometric Inverse Problems&amp;rdquo;&lt;/strong&gt; &lt;em&gt;(Archimedeans, June 2024)&lt;/em&gt; - slides &lt;a href=&#34;../files/maths/talks/M%20Postolache%20-%20The%20X-Ray%20Transform%20and%20Geometric%20Inverse%20Problems.pdf&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;&amp;ldquo;Polynomials with many Rational Preperiodic Points&amp;rdquo;&lt;/strong&gt; &lt;em&gt;(CMP Presentation Day, August 2023)&lt;/em&gt; - slides &lt;a href=&#34;../files/maths/talks/Polynomials%20With%20Many%20Rational%20Preperiodic%20Points%20-%20CMP%20Presentation.pptx&#34;&gt;here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;part-iii-essay&#34;&gt;Part III Essay&lt;/h2&gt;&#xA;&lt;p&gt;As part of my MMath, I wrote an essay titled &lt;em&gt;&amp;ldquo;Manifolds with Non-Negative Scalar Curvature&amp;rdquo;&lt;/em&gt;, under the supervision of &lt;a href=&#34;https://minterscompactness.wordpress.com/&#34;&gt;Paul Minter&lt;/a&gt;. A copy of this can be found &lt;a href=&#34;../files/maths/essay.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travels</title>
+      <link>http://localhost:1313/travels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/travels/</guid>
+      <description>&lt;h2 id=&#34;future-academic-travel&#34;&gt;Future academic travel&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pde-geometry-analysis.github.io/&#34;&gt;&lt;strong&gt;ICMS Winter School: PDE in Geometry and Analysis&lt;/strong&gt;&lt;/a&gt; - 6th-9th January 2026, Edinburgh&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;past-academic-travel&#34;&gt;Past academic travel&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://enric-sf.github.io/BIGW_VI/index.html&#34;&gt;&lt;strong&gt;British Isles Graduate Workshop VI&lt;/strong&gt;&lt;/a&gt; - 1st-5th September 2025, Isle of Wight&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p style=&#34;text-align:center&#34;&gt;&#xD;&#xA;&lt;img src=&#34;../files/travels/DSCF1990.JPG&#34; style=&#34;width: 65%&#34; alt=&#34;BIGW 2025&#34;&gt;&#xD;&#xA;The Needles, Isle of Wight, September 2025&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Useful Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;p&gt;Below are various links with useful information about seminars, conferences and the likes. These are catered to my own interests, but anyone interested in geometric analysis and/or based in London might find them useful.&lt;/p&gt;&#xA;&lt;p&gt;This is in no way exhaustative, so if you have a relevant link which I have not included, do let me know!&lt;/p&gt;&#xA;&lt;h2 id=&#34;seminars&#34;&gt;Seminars&lt;/h2&gt;&#xA;&lt;h3 id=&#34;weekly&#34;&gt;Weekly&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.seresearch.qmul.ac.uk/cgag/events/&#34;&gt;&lt;strong&gt;QMUL Geometry, Analysis and Gravitation&lt;/strong&gt;&lt;/a&gt; - Tuesdays 14:00-15:30, QMUL&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://kcl-geometry-seminar.github.io/&#34;&gt;&lt;strong&gt;KCL Geometry&lt;/strong&gt;&lt;/a&gt; - Tuesdays 15:00-16:30, S5.20, Strand Building, KCL&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.homepages.ucl.ac.uk/~ucahoan/geometry.html&#34;&gt;&lt;strong&gt;UCL Geometry and Topology&lt;/strong&gt;&lt;/a&gt; -  Wednesdays 14:00-15:00, Room 706, UCL Mathematics&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/kclanalysisseminar&#34;&gt;&lt;strong&gt;KCL Analysis&lt;/strong&gt;&lt;/a&gt; - Thursdays 11:30-12:30, S5.20, Strand Building, KCL&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://london-analysis-seminar.org.uk/&#34;&gt;&lt;strong&gt;London Analysis and Probability&lt;/strong&gt;&lt;/a&gt; - Thursdays, 15:00-16:00 and 16:30-17:30, Room 500, UCL Mathematics&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://coates.ma.ic.ac.uk/seminar/&#34;&gt;&lt;strong&gt;London Geometry and Topology&lt;/strong&gt;&lt;/a&gt; - Fridays, 12:45-13:45 or 13:30-14:30, Huxley 130, Imperial&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;special&#34;&gt;Special&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://london-analysis-seminar.org.uk/Paris-London/&#34;&gt;&lt;strong&gt;Paris-London Analysis Seminar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://geometry.ulb.ac.be/brussels-london/&#34;&gt;&lt;strong&gt;Brussels-London Geometry Seminar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;conference-search&#34;&gt;Conference search&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://cvgmt.sns.it/events/&#34;&gt;&lt;strong&gt;Calculus of Variations and Geometric Measure Theory&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
   </channel>
 </rss>

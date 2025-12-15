@@ -34,4 +34,4 @@ social: true # includes social icons at the bottom of the page
 
 I am Mara (she/her), a first-year PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/maths/). My supervisors are [Huy The Nguyen](https://sites.google.com/site/mathnguyenthehuy/home) and [Shengwen Wang](http://shengwen-wang.net/). Previously, I graduated with an MMath+BA degree from the [University of Cambridge](https://www.maths.cam.ac.uk/).
 
-My research interests are in geometric analysis, in particular related to mean curvature flow and minimal surfaces. You can find more about my mathematics [here](../maths/).
+My research interests are in geometric analysis, in particular related to mean curvature flow and minimal surfaces. You can find more about my mathematics [here](maths/).

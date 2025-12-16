@@ -4,6 +4,22 @@
 
 // Typography
 
+a,
+a strong,
+table.table a {
+  color: var(--global-theme-color);
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration: underline;
+  }
+
+  &:hover:after :not(.nav-item.dropdown) {
+    width: 100%;
+  }
+}
+
+
 p,
 h1,
 h2,
@@ -32,20 +48,6 @@ table {
 
   th {
     font-weight: bold;
-  }
-}
-
-a,
-table.table a {
-  color: var(--global-theme-color);
-
-  &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
-  }
-
-  &:hover:after :not(.nav-item.dropdown) {
-    width: 100%;
   }
 }
 

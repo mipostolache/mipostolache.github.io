@@ -36,5 +36,5 @@ I am Mara (she/her), a first-year PhD student at [Queen Mary University of Londo
 
 My research interests are in geometric analysis, in particular related to mean curvature flow and minimal surfaces. Recently, I have been focusing on the study of translating solitons of the mean curvature flow.
 
-Before I started my PhD, I did my undergraduate and integrated masters at the [University of Cambridge](https://www.maths.cam.ac.uk/).
+Before I started my PhD, I did my undergraduate and integrated master's at the [University of Cambridge](https://www.maths.cam.ac.uk/).
 

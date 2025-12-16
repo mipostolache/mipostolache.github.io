@@ -12,7 +12,9 @@ Below are various links with useful information about seminars, conferences and 
 This is in no way exhaustative, so if you have a relevant link which I have not included, do let me know!
 
 ## seminars
+
 ### weekly
+
 1. [**QMUL Geometry, Analysis and Gravitation**](https://www.seresearch.qmul.ac.uk/cgag/events/) - Tuesdays 14:00-15:30, QMUL
 1. [**KCL Geometry**](https://kcl-geometry-seminar.github.io/) - Tuesdays 15:00-16:30, KCL
 1. [**KCL/UCL Junior Geometry**](https://kcl-ucl-junior-geometry.github.io/2025-2026/) - Tuesdays 16:00-17:00, KCL
@@ -25,17 +27,29 @@ This is in no way exhaustative, so if you have a relevant link which I have not 
 1. [**Imperial Junior Geometry**](https://www.imperial.ac.uk/geometry/seminars/junior-geometry-seminar/) - Fridays 17:30-18:30, Imperial
 
 ### special
+
 1. [**Paris-London Analysis Seminar**](https://london-analysis-seminar.org.uk/Paris-London/)
 1. [**Brussels-London Geometry Seminar**](https://geometry.ulb.ac.be/brussels-london/)
 
+
+
 ## conferences/workshops
+
 ### lists
+
 1. [**Calculus of Variations and Geometric Measure Theory**](https://cvgmt.sns.it/events/)
 1. [**Differential Geometry and Complex Geometry**](https://gecogedi.dimai.unifi.it/events/)
 1. [**UofCopenhagen Algebra & Geometry Conferences**](https://www.math.ku.dk/english/research/ag/ag-conferences/)
+
 ### specific events
+
 1. [**Women in Number Theory and Geometry Spring Retreat**](https://wings2026.github.io/)
 
+
+
 ## other links
+
+1. [**Queer, Equality and Diversity (QED) Network**](https://sites.google.com/view/qednetwork/home)
+1. [**European Women in Maths**](https://www.europeanwomeninmaths.org/)
 1. [**Women in Geometry**](https://sites.google.com/view/women-in-geometry/home)
 1. [**Women in Analysis**](https://awm-math.org/research-networks/woan/woan-people/)

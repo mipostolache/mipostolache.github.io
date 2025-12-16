@@ -3,7 +3,7 @@ layout: page
 permalink: /maths/
 title: maths
 nav: true
-nav_order: 1
+nav_order: 2
 description: 
 ---
 ## pre-prints

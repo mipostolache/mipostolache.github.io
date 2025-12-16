@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: about me
 nav: true
-nav_order: 2
+nav_order: 1
 description: 
 ---
 I am from Romania, but have been studying in the UK since 2019 (Year 12), when I received an [HMC scholarship](https://www.hmc.org.uk/about-us/hmc-projects/student-scholarships/) at the [Royal Masonic School for Girls](https://www.rmsforgirls.com/) in Rickmansworth, Hertfordshire.

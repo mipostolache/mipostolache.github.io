@@ -6,4 +6,4 @@ description:
 nav: true
 nav_order: 6
 ---
-Come back later, once I know what/when I'll be teaching!
+In Semester B, I will be teaching MTH4300 Intro to Analysis with Calculus on Mondays.

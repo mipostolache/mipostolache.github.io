@@ -20,6 +20,7 @@ This is in no way exhaustative, so if you have a relevant link which I have not 
 * [**KCL/UCL Junior Geometry**](https://kcl-ucl-junior-geometry.github.io/2025-2026/) - Tuesdays 16:00-17:00, KCL
 * [**Imperial Junior Analysis**](https://www.imperial.ac.uk/pure-analysis-and-pdes/seminars/jas/) - Wednesdays 14:00-15:00, Imperial
 * [**UCL Geometry and Topology**](https://www.homepages.ucl.ac.uk/~ucahoan/geometry.html) - Wednesdays 14:00-15:00, UCL
+* [**London PDE**](https://lpde.maths.qmul.ac.uk/) - Thursdays 11:00-12:00, Imperial
 * [**KCL Analysis**](https://sites.google.com/view/kclanalysisseminar) - Thursdays 11:30-12:30, KCL
 * [**London Analysis and Probability**](https://london-analysis-seminar.org.uk/) - Thursdays 15:00-16:00 and 16:30-17:30, UCL
 * [**Warwick Analysis**](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/analysis/) - Thursdays 16:00-17:00, Warwick

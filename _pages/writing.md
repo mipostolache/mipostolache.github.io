@@ -11,15 +11,11 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-## pre-prints and publications
 
 <!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --template bib --group_by type,year --group_order ascending,descending %}
 
 </div>
-
-## other writing
-[**Manifolds with Non-Negative Scalar Curvature**](../assets/files/maths/essay.pdf), Part III Essay, supervised by [Paul Minter](https://minterscompactness.wordpress.com/)

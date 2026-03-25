@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: first-year PhD student
+subtitle: PhD student
 
 profile:
   align: right

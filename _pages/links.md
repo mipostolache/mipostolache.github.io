@@ -15,6 +15,7 @@ This is in no way exhaustative, so if you have a relevant link which I have not 
 
 ### weekly
 
+* [**Warwick Junior Analysis and Probability**](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/) - Mondays 15:00-16:00, Warwick
 * [**QMUL Geometry, Analysis and Gravitation**](https://www.seresearch.qmul.ac.uk/cgag/events/) - Tuesdays 14:00-15:30, QMUL
 * [**KCL Geometry**](https://kcl-geometry-seminar.github.io/) - Tuesdays 15:00-16:30, KCL
 * [**KCL/UCL Junior Geometry**](https://kcl-ucl-junior-geometry.github.io/2025-2026/) - Tuesdays 16:00-17:00, KCL

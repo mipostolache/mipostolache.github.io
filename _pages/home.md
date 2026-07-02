@@ -32,7 +32,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Hello and welcome!
 
-I am Mara (she/her), a first-year PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/maths/). My supervisors are [Huy The Nguyen](https://sites.google.com/site/mathnguyenthehuy/home) and [Shengwen Wang](http://shengwen-wang.net/). 
+I am Mara (she/her), a first-year PhD student at [Queen Mary University of London](https://www.qmul.ac.uk/maths/). My supervisors are [Shengwen Wang](https://sites.google.com/site/shengwenswebsite/) and [Huy The Nguyen](https://sites.google.com/site/mathnguyenthehuy/home). 
 
 My research interests are in geometric analysis, in particular related to mean curvature flow and minimal surfaces. Recently, I have been focusing on the study of translating solitons of the mean curvature flow.
 

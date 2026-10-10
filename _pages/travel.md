@@ -6,11 +6,19 @@ nav: true
 nav_order: 5
 description: 
 ---
-## upcoming
-1. [**European School of Differential Geometry**](https://sites.google.com/view/esdg-aq26) - 22nd June-3rd July 2026, L'Aquila, Italy
-1. [**British Isles Graduate Workshop VII**](https://lseem.xyz/bigw-vii/) - 24th-28th August 2026, Dartmoor National Park, UK
+<!-- ## upcoming -->
 
 ## history
+1. [**British Isles Graduate Workshop VII**](https://lseem.xyz/bigw-vii/) - 24th-28th August 2026, Dartmoor National Park, UK
+
+    <img src="../assets/img/travel/OkehamptonSep26.jpg" style="width: 65%" alt="Hike in Dartmoor, Okehampton" class="center">
+    <div class="caption">Hike in Dartmoor, Okehampton, September 2026</div>
+
+1. [**European School of Differential Geometry**](https://sites.google.com/view/esdg-aq26) - 22nd June-3rd July 2026, L'Aquila, Italy
+
+    <img src="../assets/img/travel/LAquilaJun26.jpg" style="width: 65%" alt="View of Gran Sasso from the Forte Spagnolo, L'Aquila" class="center">
+    <div class="caption">View of Gran Sasso from the Forte Spagnolo, L'Aquila, June 2026</div>
+
 1. [**Geometric Analysis: Parabolic and Elliptic Methods**](https://sites.google.com/view/geometric-analysis-kth-2026) - 8th-12th June 2026, Stockholm, Sweden
 
     <img src="../assets/img/travel/StockholmJun26.jpg" style="width: 65%" alt="View of Gamla Stan from Skinnarviksberget, Stockholm" class="center">

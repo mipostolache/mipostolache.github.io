@@ -7,7 +7,7 @@ nav_order: 10
 cv_pdf: MI Postolache - Curriculum Vitae.pdf # you can also use external links here
 description: 
 ---
-Below are various links with useful information about seminars, conferences and the likes. These are catered to my own interests, but anyone interested in geometric analysis and/or based in London might find them useful.
+Below are various links with useful information about seminars, conferences and the likes. These are catered to my own interests, but anyone interested in geometric analysis and/or based in London/Warwick might find them useful.
 
 This is in no way exhaustative, so if you have a relevant link which I have not included, do let me know!
 
@@ -17,15 +17,17 @@ This is in no way exhaustative, so if you have a relevant link which I have not 
 
 * [**Warwick Junior Analysis and Probability**](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/junioranalysisseminar/) - Mondays 15:00-16:00, Warwick
 * [**QMUL Geometry, Analysis and Gravitation**](https://www.seresearch.qmul.ac.uk/cgag/events/) - Tuesdays 14:00-15:30, QMUL
-* [**KCL Geometry**](https://kcl-geometry-seminar.github.io/) - Tuesdays 15:00-16:30, KCL
-* [**KCL/UCL Junior Geometry**](https://kcl-ucl-junior-geometry.github.io/2025-2026/) - Tuesdays 16:00-17:00, KCL
+* [**KCL Geometry**](https://kcl-geometry-seminar.github.io/) - Tuesdays 15:00-16:00, KCL
+* [**KCL/UCL Junior Geometry**](https://kcl-ucl-junior-geometry.github.io/2025-2026/) - Tuesdays 16:00-17:00, KCL <!-- This needs to be updated at some point !-->
+* [**Queen Mary Internal Postgraduate Seminar**](https://www.qmul.ac.uk/maths/research/seminars/queen-mary-internal-postgraduate-seminar/) - Wednesdays 12:00-13:00, QMUL
 * [**Imperial Junior Analysis**](https://www.imperial.ac.uk/pure-analysis-and-pdes/seminars/jas/) - Wednesdays 14:00-15:00, Imperial
 * [**UCL Geometry and Topology**](https://www.homepages.ucl.ac.uk/~ucahoan/geometry.html) - Wednesdays 14:00-15:00, UCL
-* [**London PDE**](https://lpde.maths.qmul.ac.uk/) - Thursdays 11:00-12:00, Imperial
-* [**KCL Analysis**](https://sites.google.com/view/kclanalysisseminar) - Thursdays 11:30-12:30, KCL
+* [**London Geometric Analysis Reading Seminar**](https://londongeometricanalysis.org.uk/) - Wednesdays 16:15-17:45, KCL
+* [**KCL Analysis**](https://sites.google.com/view/kclanalysisseminar) - Thursdays 11:00-12:00, KCL
 * [**London Analysis and Probability**](https://london-analysis-seminar.org.uk/) - Thursdays 15:00-16:00 and 16:30-17:30, UCL
 * [**Warwick Analysis**](https://warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/analysis/) - Thursdays 16:00-17:00, Warwick
-* [**London Geometry and Topology**](http://coates.ma.ic.ac.uk/seminar/) - Fridays 12:45-13:45 or 13:30-14:30, Imperial
+* [**London Geometry and Topology**](https://lekili.freemath.xyz/seminars/) - Fridays 12:45-13:45 or 13:30-14:30, Imperial
+* [**London PDE**](https://lpde.maths.qmul.ac.uk/) - Fridays 14:00-15:00, Imperial
 * [**Imperial Junior Geometry**](https://www.imperial.ac.uk/geometry/seminars/junior-geometry-seminar/) - Fridays 17:30-18:30, Imperial
 
 ### special
